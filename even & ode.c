@@ -1,16 +1,17 @@
 #include<stdio.h>
 int main(){
 	int a;
+	
 	printf("enter number");
 	scanf("%d",&a);
 	
-	if(a%2==0){
-		printf("even number");
-	}
-	else{
-		printf("ode number");
-	}
-	
-	return 0;
-	
+	n%2 == 0
+  
+   ? printf("Even number\n") 
+    
+:	printf("Odd number\n");
+ 
+   return 0;
 }
+  
+	
