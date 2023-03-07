@@ -29,7 +29,7 @@ main(){
 				printf("C is max");
 			}
 			else{
-				("D is max");
+				printf("D is max");
 			}
 		}
 	}
